@@ -34,6 +34,13 @@ input[type="submit"]:hover, button:hover {
   background-color: #005f99;
 }
 
+.login_button {
+  cursor: pointer;
+  background-color: #0088cc;
+  width: 100%;
+  color: white;
+  border: none;
+}
 .hidden {
   display: none;
 }
